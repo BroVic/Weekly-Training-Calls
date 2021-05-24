@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/763716/0edbedfa3cdf454fadfa83463d0ebc0c
+bundleId: https://api.rpubs.com/api/v1/document/763716/0edbedfa3cdf454fadfa83463d0ebc0c
+url: http://rpubs.com/akowundu/763716
+when: 1619959922.1793
